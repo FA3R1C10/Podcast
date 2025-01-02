@@ -1,12 +1,27 @@
-O podcast escolhido seria o primeiro de vários capítulos que aboradrão os diversos tipos de investimento. Neste primeiro episódio traríamos um resumo dos investimentos que seriam abordados na primeira temporada.
+# Podcast Investe Fácil - Primeiro Episódio
 
-Para iniciar o projeto de podcast, inserimos o seguinte prompt no Notion Ai:
-"Você é um roteirista e irá me ajudar a montar um podcast sobre investimentos de varejo onde explicaremos como funciona cada tipo de aplicação, suas principais características, seus pontos fortes e seus pontos fracos. Para iniciarmos vamos criar um título e um subtítulo para este podcast. O público alvo do mesmo será um público mais jovem que está começando a juntar dinheiro e não sabe onde investir."
-Dos dados retornados escolhi o título e subtítulo abaixo:
-Investe Fácil
-Subtítulo: Decifrando o mundo dos investimentos para iniciantes
+## 📒 Descrição
+Criação do primeiro episódio de uma série de podcast chamado Investe Fácil, voltado para o público jovem que está buscando conhecimento sobre onde começar a investir.
+Neste primeiro episódio foi apresentado um breve resumo dos investimentos que serão abordados nos próximos podcasts da primeira temporada.
 
-Na sequência passei a utilizar o Copilot com chat GPT 4.0 para criação do roteiro e imagem da capa do podcast.
+## 🤖 Tecnologias Utilizadas
+Copilot para definição do nome do podcast além da criação do roteiro baseado no prompt 3Rs além da geração da capa do podcast
+Canva para complemento da capa com o nome do podcast
+Capcut para transformação do texto em áudio
 
-Com a capa e o roteiro trasnportei os dados para o capcut onde fiz a transcrição do texto para voz. (por utilizar a versão gratuita, infelizmente não consegui trabalhar com uma voz em português br, utilizando portiguês pt).
+## 🧐 Processo de Criação
+1. Criação de um título através do Copilot
+2. Criação do roteiro através do copilot com um prompt baseado em regras 
+3. Geração da imagem de capa também no copilot
+4. Edição da imagem de capa no Canva para inclusão do nome do podcast
+5. Utilização do Capcut para conversão do texto em fala
 
+## 🚀 Resultados
+Disponibilização do primeiro episódio neste repositório
+
+## 💭 Reflexão (Opcional)
+A constru;áo de um promt baseado em regras facilitou a elabora;áo do roteiro. J[a na parte da imagem notei uma dificuldade do Copilot em trabalhar com textos dentro de imagens, o que fez com que eu recorre-se ao Canva para edição.
+A IA do Canva também foi útil para definição das cores a serem utilizadas no título.
+No Capcut foi possível substituir o texto por voz, porém devido ao número limitado de caracteres foi necessário fazê-lo em diversas partes.
+O Capcut mostrou-se extremamente eficiente para esta migração de texto para voz, porém na versão gratuita não localizei nenhum personagem brasileiro, recorrendo ao português PT.
+Por enquanto fica claro como precisamos de várias IAs distintas para construção de um projeto mais robusto devido às especificidades de cada uma.
